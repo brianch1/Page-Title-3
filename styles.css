@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url("https://nerdbot.com/wp-content/uploads/2019/01/dragon_ball_super_next_gen_group_wallpaper_by_windyechoes-dbfvor0.png");}
+h1{
+    color: orange;
+    font-size: 50px;}
+p{
+    color: gold;
+    font-size: 40px;}
+img{
+    height: 400px;}
+
+
